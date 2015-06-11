@@ -3,3 +3,4 @@ A few components that utilize the riot.js framework. Utilizing even more useful 
 
 # Still Developing
 Feel free to use any of the components in development environments.
+Dependencies etc will be included soon.
